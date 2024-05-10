@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 Cursos ou graduações: Atualmente estou no curso tecnico de redes de computaores
-- 😄 Pronomes: ele / dele
+- 😄 Pronomes: ele / dele.
 
 
